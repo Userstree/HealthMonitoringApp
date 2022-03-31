@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>436564858061-cm0rbr81f8r1iv0lik50jn6tmu57vpjs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.436564858061-cm0rbr81f8r1iv0lik50jn6tmu57vpjs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCi0DuOXZaBar45t0t5Nf4jXDAtzJiXgCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>436564858061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Zoom.HealthMonitoringApp</string>
+	<key>PROJECT_ID</key>
+	<string>healthmonitoring-1ca88</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthmonitoring-1ca88.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:436564858061:ios:d19d5b3cee89dee2cc4584</string>
+</dict>
+</plist>
