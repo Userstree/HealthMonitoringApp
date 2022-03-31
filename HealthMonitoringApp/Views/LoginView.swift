@@ -103,5 +103,4 @@ class LoginView: UIView {
     public required init?(coder: NSCoder) {
         fatalError("init?(coder) is not supported")
     }
-    
 }
